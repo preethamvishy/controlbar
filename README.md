@@ -1,2 +1,2 @@
-# networkbar
-A menubar app for network details
+# controlbar
+A menubar app for controlling mac

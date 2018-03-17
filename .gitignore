@@ -57,3 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+./network-bar
+network-bar
+dist
+.DS_Store
